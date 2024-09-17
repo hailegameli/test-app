@@ -1,5 +1,5 @@
 #Pulling base image
-FROM Ubuntu
+FROM ubuntu
 #setting up workdirectory to copy the code inside the container
 WORKDIR /app
 #Update ubuntu os
